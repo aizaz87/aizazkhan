@@ -420,7 +420,7 @@ def pilih_super():
 	print "\033[1;95m♡──────────•◈•──────────♡\033[1;96mAizaz Khan\033[1;95m♡──────────•◈•──────────♡"
 	print "  \033[1;93m«---•◈•---Developed By love---•◈•---»" #Dev:Mr.Khan
 	print '\033[1;91mProcess Has Been Completed\033[1;92m....'
-	print"\033[1;91mTotal OK/\x1b[1;93mCP \033[1;91m: \033[1;91m"+str(len(oks))+"\033[1;97m/\033[1;95m"+str(Chekpoint))
+	print"\033[1;91mTotal OK/\x1b[1;93mCP \033[1;91m: \033[1;91m"+str(len(oks))+"\033[1;97m/\033[1;95m"+str(len(Chekpoint))
 	print """
              
      
